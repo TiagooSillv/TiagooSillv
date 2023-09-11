@@ -11,7 +11,7 @@ E aí, pessoal! Me chamo Tiago e sou o mago dos códigos nos bastidores. Comecei
 ## Soft Skills
 - Comunicação Efetiva - Trabalho em Equipe- Resolução de Problemas - Proatividade - persistência
 
-[![Linguagens principais](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagooSillv&theme=tokyonight&hide_border=true&custom_title=Linguagens%20Principais)](https://github.com/anuraghazra/github-readme-stats)
+![Linguagens principais](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagooSillv&theme=tokyonight&hide_border=true&custom_title=Linguagens%20Principais)
 
 ## 👉  Para me encontrar 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-silva-731297188/)
